@@ -13,3 +13,5 @@ I'm learning GitHub, GitHub Copilot, and improving my development skills.
 - Learn GitHub Copilot  
 - Build small practice projects  
 - Improve coding and automation  # my-first-repo
+
+This is my first change from VS Code.
